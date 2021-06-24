@@ -1,6 +1,6 @@
 # Eyes
 ## Eyes Exercise
-Exercising demonstrating the use of HTML and CSS. Displays a set of eyes following/tracking the mouse arrow around the browser window.
+Exercising demonstrating the use of HTML, JavaScript, and CSS. Displays a set of eyes following/tracking the mouse arrow around the browser window.
 
 ## How to Use
 Copy the index.html and eyes.css files. Open the index.html file in your browser and watch as the eyes track your mouse movement.

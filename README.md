@@ -4,6 +4,7 @@ Exercise demonstrating the use of HTML, JavaScript, and CSS. Displays a set of e
 
 ## How to Use
 Copy the index.html and eyes.css files. Open the index.html file in your browser and watch as the eyes track your mouse movement.
+
 DEMO - https://jeffmizner.github.io/Eyes/
 
 ## Future Improvements
